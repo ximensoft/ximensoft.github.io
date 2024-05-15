@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>https://www.xiaoxinsoft.com/findapp/index.html</loc>
+    
+    <lastmod>2024-05-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.xiaoxinsoft.com/2024/05/1365a5d9.html</loc>
     
     <lastmod>2024-05-14</lastmod>
@@ -128,15 +137,6 @@
   </url>
   
   <url>
-    <loc>https://www.xiaoxinsoft.com/findapp/index.html</loc>
-    
-    <lastmod>2024-05-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.xiaoxinsoft.com/2024/05/2a084fe0.html</loc>
     
     <lastmod>2024-05-03</lastmod>
@@ -218,6 +218,20 @@
 
   
   <url>
+    <loc>https://www.xiaoxinsoft.com/tags/EndNote/</loc>
+    <lastmod>2024-05-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xiaoxinsoft.com/tags/Win%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2024-05-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.xiaoxinsoft.com/tags/ChemDraw/</loc>
     <lastmod>2024-05-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -232,21 +246,7 @@
   </url>
   
   <url>
-    <loc>https://www.xiaoxinsoft.com/tags/Win%E8%BD%AF%E4%BB%B6/</loc>
-    <lastmod>2024-05-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xiaoxinsoft.com/tags/EndNote/</loc>
-    <lastmod>2024-05-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xiaoxinsoft.com/tags/Mac%E6%B8%B8%E6%88%8F/</loc>
+    <loc>https://www.xiaoxinsoft.com/tags/GraphpadPrism/</loc>
     <lastmod>2024-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -260,14 +260,14 @@
   </url>
   
   <url>
-    <loc>https://www.xiaoxinsoft.com/tags/GraphpadPrism/</loc>
+    <loc>https://www.xiaoxinsoft.com/tags/MestReNova/</loc>
     <lastmod>2024-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.xiaoxinsoft.com/tags/MestReNova/</loc>
+    <loc>https://www.xiaoxinsoft.com/tags/Mac%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2024-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
