@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.xiaoxinsoft.com/2024/05/7c3c56dd.html</loc>
+    
+    <lastmod>2024-06-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.xiaoxinsoft.com/2024/05/e191016d.html</loc>
     
     <lastmod>2024-06-03</lastmod>
@@ -41,15 +50,6 @@
     <loc>https://www.xiaoxinsoft.com/2024/04/e8af88ae.html</loc>
     
     <lastmod>2024-06-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xiaoxinsoft.com/2024/05/7c3c56dd.html</loc>
-    
-    <lastmod>2024-05-31</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -248,13 +248,6 @@
   </url>
   
   <url>
-    <loc>https://www.xiaoxinsoft.com/tags/EndNote/</loc>
-    <lastmod>2024-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.xiaoxinsoft.com/tags/GraphpadPrism/</loc>
     <lastmod>2024-06-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -262,21 +255,7 @@
   </url>
   
   <url>
-    <loc>https://www.xiaoxinsoft.com/tags/Mac%E8%BD%AF%E4%BB%B6/</loc>
-    <lastmod>2024-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xiaoxinsoft.com/tags/Telegram/</loc>
-    <lastmod>2024-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xiaoxinsoft.com/tags/MestReNova/</loc>
+    <loc>https://www.xiaoxinsoft.com/tags/EndNote/</loc>
     <lastmod>2024-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -290,7 +269,28 @@
   </url>
   
   <url>
+    <loc>https://www.xiaoxinsoft.com/tags/Mac%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2024-06-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xiaoxinsoft.com/tags/MestReNova/</loc>
+    <lastmod>2024-06-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.xiaoxinsoft.com/tags/Origin/</loc>
+    <lastmod>2024-06-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xiaoxinsoft.com/tags/Telegram/</loc>
     <lastmod>2024-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -306,14 +306,14 @@
   </url>
   
   <url>
-    <loc>https://www.xiaoxinsoft.com/categories/Mac%E8%BD%AF%E4%BB%B6/</loc>
+    <loc>https://www.xiaoxinsoft.com/categories/Mac%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2024-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.xiaoxinsoft.com/categories/Mac%E6%B8%B8%E6%88%8F/</loc>
+    <loc>https://www.xiaoxinsoft.com/categories/Mac%E8%BD%AF%E4%BB%B6/</loc>
     <lastmod>2024-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
