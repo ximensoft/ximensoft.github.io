@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.xiaoxinsoft.com/2024/06/d263cbdc.html</loc>
+    
+    <lastmod>2024-06-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.xiaoxinsoft.com/2024/05/e191016d.html</loc>
     
     <lastmod>2024-06-08</lastmod>
@@ -65,15 +74,6 @@
   </url>
   
   <url>
-    <loc>https://www.xiaoxinsoft.com/2024/05/7e897ab9.html</loc>
-    
-    <lastmod>2024-06-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.xiaoxinsoft.com/2024/04/e8af88ae.html</loc>
     
     <lastmod>2024-06-02</lastmod>
@@ -84,6 +84,15 @@
   
   <url>
     <loc>https://www.xiaoxinsoft.com/2024/05/df63fa33.html</loc>
+    
+    <lastmod>2024-06-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xiaoxinsoft.com/2024/05/7e897ab9.html</loc>
     
     <lastmod>2024-06-02</lastmod>
     
@@ -155,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://www.xiaoxinsoft.com/2024/05/978e174f.html</loc>
+    <loc>https://www.xiaoxinsoft.com/2024/05/edf457a2.html</loc>
     
     <lastmod>2024-05-12</lastmod>
     
@@ -164,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://www.xiaoxinsoft.com/2024/05/edf457a2.html</loc>
+    <loc>https://www.xiaoxinsoft.com/2024/05/978e174f.html</loc>
     
     <lastmod>2024-05-12</lastmod>
     
@@ -275,6 +284,13 @@
   </url>
   
   <url>
+    <loc>https://www.xiaoxinsoft.com/tags/GraphpadPrism/</loc>
+    <lastmod>2024-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.xiaoxinsoft.com/tags/Mac%E8%BD%AF%E4%BB%B6/</loc>
     <lastmod>2024-06-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -283,27 +299,6 @@
   
   <url>
     <loc>https://www.xiaoxinsoft.com/tags/Mac%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98/</loc>
-    <lastmod>2024-06-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xiaoxinsoft.com/tags/EndNote/</loc>
-    <lastmod>2024-06-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xiaoxinsoft.com/tags/GraphpadPrism/</loc>
-    <lastmod>2024-06-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xiaoxinsoft.com/tags/Origin/</loc>
     <lastmod>2024-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -331,7 +326,21 @@
   </url>
   
   <url>
+    <loc>https://www.xiaoxinsoft.com/tags/EndNote/</loc>
+    <lastmod>2024-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.xiaoxinsoft.com/tags/Win%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98/</loc>
+    <lastmod>2024-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xiaoxinsoft.com/tags/Origin/</loc>
     <lastmod>2024-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
