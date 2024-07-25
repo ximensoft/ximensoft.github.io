@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.xiaoxinsoft.com/2024/07/d556585b.html</loc>
+    
+    <lastmod>2024-07-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.xiaoxinsoft.com/2024/07/371a21b2.html</loc>
     
     <lastmod>2024-07-24</lastmod>
@@ -128,15 +137,6 @@
   </url>
   
   <url>
-    <loc>https://www.xiaoxinsoft.com/2024/04/e8af88ae.html</loc>
-    
-    <lastmod>2024-06-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.xiaoxinsoft.com/2024/05/7e897ab9.html</loc>
     
     <lastmod>2024-06-02</lastmod>
@@ -147,6 +147,15 @@
   
   <url>
     <loc>https://www.xiaoxinsoft.com/2024/05/1e3efaa4.html</loc>
+    
+    <lastmod>2024-06-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xiaoxinsoft.com/2024/04/e8af88ae.html</loc>
     
     <lastmod>2024-06-02</lastmod>
     
@@ -319,120 +328,134 @@
 
   <url>
     <loc>https://www.xiaoxinsoft.com/</loc>
-    <lastmod>2024-07-24</lastmod>
+    <lastmod>2024-07-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://www.xiaoxinsoft.com/tags/ChemDraw/</loc>
-    <lastmod>2024-07-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xiaoxinsoft.com/tags/ChemOffice/</loc>
-    <lastmod>2024-07-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.xiaoxinsoft.com/tags/Win%E8%BD%AF%E4%BB%B6/</loc>
-    <lastmod>2024-07-24</lastmod>
+    <lastmod>2024-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.xiaoxinsoft.com/tags/Canoco/</loc>
-    <lastmod>2024-07-24</lastmod>
+    <lastmod>2024-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xiaoxinsoft.com/tags/ChemDraw/</loc>
+    <lastmod>2024-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xiaoxinsoft.com/tags/ChemOffice/</loc>
+    <lastmod>2024-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.xiaoxinsoft.com/tags/EndNote/</loc>
-    <lastmod>2024-07-24</lastmod>
+    <lastmod>2024-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.xiaoxinsoft.com/tags/GraphpadPrism/</loc>
-    <lastmod>2024-07-24</lastmod>
+    <lastmod>2024-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.xiaoxinsoft.com/tags/Mac%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98/</loc>
-    <lastmod>2024-07-24</lastmod>
+    <lastmod>2024-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.xiaoxinsoft.com/tags/Mac%E8%BD%AF%E4%BB%B6/</loc>
-    <lastmod>2024-07-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xiaoxinsoft.com/tags/Jade/</loc>
-    <lastmod>2024-07-24</lastmod>
+    <lastmod>2024-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.xiaoxinsoft.com/tags/Mac%E6%B8%B8%E6%88%8F/</loc>
-    <lastmod>2024-07-24</lastmod>
+    <lastmod>2024-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.xiaoxinsoft.com/tags/MestReNova/</loc>
-    <lastmod>2024-07-24</lastmod>
+    <lastmod>2024-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xiaoxinsoft.com/tags/Jade/</loc>
+    <lastmod>2024-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.xiaoxinsoft.com/tags/Origin/</loc>
-    <lastmod>2024-07-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xiaoxinsoft.com/tags/Telegram/</loc>
-    <lastmod>2024-07-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xiaoxinsoft.com/tags/Win%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98/</loc>
-    <lastmod>2024-07-24</lastmod>
+    <lastmod>2024-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.xiaoxinsoft.com/tags/PDF4-2009/</loc>
-    <lastmod>2024-07-24</lastmod>
+    <lastmod>2024-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xiaoxinsoft.com/tags/Telegram/</loc>
+    <lastmod>2024-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xiaoxinsoft.com/tags/Win%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98/</loc>
+    <lastmod>2024-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xiaoxinsoft.com/tags/Microsoft-NET-Framework/</loc>
+    <lastmod>2024-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xiaoxinsoft.com/tags/NET-Framework-4-0/</loc>
+    <lastmod>2024-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.xiaoxinsoft.com/tags/FlowJo/</loc>
-    <lastmod>2024-07-24</lastmod>
+    <lastmod>2024-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -441,21 +464,21 @@
   
   <url>
     <loc>https://www.xiaoxinsoft.com/categories/Win%E8%BD%AF%E4%BB%B6/</loc>
-    <lastmod>2024-07-24</lastmod>
+    <lastmod>2024-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.xiaoxinsoft.com/categories/Mac%E8%BD%AF%E4%BB%B6/</loc>
-    <lastmod>2024-07-24</lastmod>
+    <lastmod>2024-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.xiaoxinsoft.com/categories/Mac%E6%B8%B8%E6%88%8F/</loc>
-    <lastmod>2024-07-24</lastmod>
+    <lastmod>2024-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
