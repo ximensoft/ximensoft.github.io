@@ -146,15 +146,6 @@
   </url>
   
   <url>
-    <loc>https://www.xiaoxinsoft.com/2024/04/cfaf734.html</loc>
-    
-    <lastmod>2024-06-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.xiaoxinsoft.com/2024/05/7e897ab9.html</loc>
     
     <lastmod>2024-06-02</lastmod>
@@ -165,6 +156,15 @@
   
   <url>
     <loc>https://www.xiaoxinsoft.com/2024/04/e8af88ae.html</loc>
+    
+    <lastmod>2024-06-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xiaoxinsoft.com/2024/04/cfaf734.html</loc>
     
     <lastmod>2024-06-02</lastmod>
     
@@ -191,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://www.xiaoxinsoft.com/2024/05/7c3c56dd.html</loc>
+    <loc>https://www.xiaoxinsoft.com/2024/05/816c020.html</loc>
     
     <lastmod>2024-06-02</lastmod>
     
@@ -200,7 +200,7 @@
   </url>
   
   <url>
-    <loc>https://www.xiaoxinsoft.com/2024/05/816c020.html</loc>
+    <loc>https://www.xiaoxinsoft.com/2024/05/7c3c56dd.html</loc>
     
     <lastmod>2024-06-02</lastmod>
     
@@ -358,6 +358,13 @@
   </url>
   
   <url>
+    <loc>https://www.xiaoxinsoft.com/tags/EndNote/</loc>
+    <lastmod>2024-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.xiaoxinsoft.com/tags/ChemDraw/</loc>
     <lastmod>2024-08-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -372,14 +379,14 @@
   </url>
   
   <url>
-    <loc>https://www.xiaoxinsoft.com/tags/EndNote/</loc>
+    <loc>https://www.xiaoxinsoft.com/tags/Jade/</loc>
     <lastmod>2024-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.xiaoxinsoft.com/tags/Jade/</loc>
+    <loc>https://www.xiaoxinsoft.com/tags/GraphpadPrism/</loc>
     <lastmod>2024-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -407,7 +414,7 @@
   </url>
   
   <url>
-    <loc>https://www.xiaoxinsoft.com/tags/GraphpadPrism/</loc>
+    <loc>https://www.xiaoxinsoft.com/tags/MestReNova/</loc>
     <lastmod>2024-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -429,13 +436,6 @@
   
   <url>
     <loc>https://www.xiaoxinsoft.com/tags/Telegram/</loc>
-    <lastmod>2024-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xiaoxinsoft.com/tags/MestReNova/</loc>
     <lastmod>2024-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
