@@ -146,15 +146,6 @@
   </url>
   
   <url>
-    <loc>https://www.xiaoxinsoft.com/2024/04/e8af88ae.html</loc>
-    
-    <lastmod>2024-06-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.xiaoxinsoft.com/2024/04/cfaf734.html</loc>
     
     <lastmod>2024-06-02</lastmod>
@@ -165,6 +156,15 @@
   
   <url>
     <loc>https://www.xiaoxinsoft.com/2024/05/7e897ab9.html</loc>
+    
+    <lastmod>2024-06-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xiaoxinsoft.com/2024/04/e8af88ae.html</loc>
     
     <lastmod>2024-06-02</lastmod>
     
@@ -344,13 +344,6 @@
 
   
   <url>
-    <loc>https://www.xiaoxinsoft.com/tags/EndNote/</loc>
-    <lastmod>2025-06-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.xiaoxinsoft.com/tags/Win%E8%BD%AF%E4%BB%B6/</loc>
     <lastmod>2025-06-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -379,14 +372,7 @@
   </url>
   
   <url>
-    <loc>https://www.xiaoxinsoft.com/tags/Jade/</loc>
-    <lastmod>2025-06-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xiaoxinsoft.com/tags/GraphpadPrism/</loc>
+    <loc>https://www.xiaoxinsoft.com/tags/EndNote/</loc>
     <lastmod>2025-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -407,6 +393,20 @@
   </url>
   
   <url>
+    <loc>https://www.xiaoxinsoft.com/tags/GraphpadPrism/</loc>
+    <lastmod>2025-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xiaoxinsoft.com/tags/Jade/</loc>
+    <lastmod>2025-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.xiaoxinsoft.com/tags/Mac%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2025-06-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -421,14 +421,21 @@
   </url>
   
   <url>
-    <loc>https://www.xiaoxinsoft.com/tags/Telegram/</loc>
+    <loc>https://www.xiaoxinsoft.com/tags/Origin/</loc>
     <lastmod>2025-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.xiaoxinsoft.com/tags/Origin/</loc>
+    <loc>https://www.xiaoxinsoft.com/tags/PDF4-2009/</loc>
+    <lastmod>2025-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xiaoxinsoft.com/tags/Telegram/</loc>
     <lastmod>2025-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -450,13 +457,6 @@
   
   <url>
     <loc>https://www.xiaoxinsoft.com/tags/NET-Framework-4-0/</loc>
-    <lastmod>2025-06-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xiaoxinsoft.com/tags/PDF4-2009/</loc>
     <lastmod>2025-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
